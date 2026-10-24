@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "native-lib",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "VGEUtils_android::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-VGEUtils_android-Debug-8b9fa10b8dc5c1da8438.json",
+					"name" : "VGEUtils_android",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app-glue::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app-glue-Debug-01a75d9a5e31d0806ef3.json",
+					"name" : "app-glue",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "native-lib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-native-lib-Debug-bbf91e3a9085a3a70022.json",
+					"name" : "native-lib",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/Examples/hello_triangle/Android/hello-triangle-ndk/app/.cxx/Debug/o5p395h2/arm64-v8a",
+		"source" : "/home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/Examples/hello_triangle/Android/hello-triangle-ndk/app/src/main/cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

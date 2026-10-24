@@ -1,0 +1,65 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/Examples/hello_triangle/Android/hello-triangle-ndk/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/Examples/hello_triangle/Android/hello-triangle-ndk/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/Examples/hello_triangle/Android/hello-triangle-ndk/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/Examples/hello_triangle/Android/hello-triangle-ndk/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		INJECTED from /home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/Examples/hello_triangle/Android/hello-triangle-ndk/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/Examples/hello_triangle/Android/hello-triangle-ndk/app/src/main/AndroidManifest.xml:2:94-119
+		INJECTED from /home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/Examples/hello_triangle/Android/hello-triangle-ndk/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/Examples/hello_triangle/Android/hello-triangle-ndk/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/Examples/hello_triangle/Android/hello-triangle-ndk/app/src/main/AndroidManifest.xml:2:70-93
+		INJECTED from /home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/Examples/hello_triangle/Android/hello-triangle-ndk/app/src/main/AndroidManifest.xml
+uses-feature#0x00030002
+ADDED from /home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/Examples/hello_triangle/Android/hello-triangle-ndk/app/src/main/AndroidManifest.xml:5:5-53
+	android:glEsVersion
+		ADDED from /home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/Examples/hello_triangle/Android/hello-triangle-ndk/app/src/main/AndroidManifest.xml:5:19-51
+application
+ADDED from /home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/Examples/hello_triangle/Android/hello-triangle-ndk/app/src/main/AndroidManifest.xml:6:5-24:19
+INJECTED from /home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/Examples/hello_triangle/Android/hello-triangle-ndk/app/src/main/AndroidManifest.xml:6:5-24:19
+	android:extractNativeLibs
+		INJECTED from /home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/Examples/hello_triangle/Android/hello-triangle-ndk/app/src/main/AndroidManifest.xml
+	android:label
+		ADDED from /home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/Examples/hello_triangle/Android/hello-triangle-ndk/app/src/main/AndroidManifest.xml:8:9-43
+	android:largeHeap
+		ADDED from /home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/Examples/hello_triangle/Android/hello-triangle-ndk/app/src/main/AndroidManifest.xml:10:9-33
+	android:icon
+		ADDED from /home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/Examples/hello_triangle/Android/hello-triangle-ndk/app/src/main/AndroidManifest.xml:9:9-38
+	android:allowBackup
+		ADDED from /home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/Examples/hello_triangle/Android/hello-triangle-ndk/app/src/main/AndroidManifest.xml:7:9-35
+activity#android.app.NativeActivity
+ADDED from /home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/Examples/hello_triangle/Android/hello-triangle-ndk/app/src/main/AndroidManifest.xml:12:9-23:20
+	android:exported
+		ADDED from /home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/Examples/hello_triangle/Android/hello-triangle-ndk/app/src/main/AndroidManifest.xml:15:13-36
+	android:configChanges
+		ADDED from /home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/Examples/hello_triangle/Android/hello-triangle-ndk/app/src/main/AndroidManifest.xml:14:13-74
+	android:name
+		ADDED from /home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/Examples/hello_triangle/Android/hello-triangle-ndk/app/src/main/AndroidManifest.xml:13:13-54
+meta-data#android.app.lib_name
+ADDED from /home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/Examples/hello_triangle/Android/hello-triangle-ndk/app/src/main/AndroidManifest.xml:16:13-88
+	android:value
+		ADDED from /home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/Examples/hello_triangle/Android/hello-triangle-ndk/app/src/main/AndroidManifest.xml:16:60-86
+	android:name
+		ADDED from /home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/Examples/hello_triangle/Android/hello-triangle-ndk/app/src/main/AndroidManifest.xml:16:24-59
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/Examples/hello_triangle/Android/hello-triangle-ndk/app/src/main/AndroidManifest.xml:18:13-21:29
+action#android.intent.action.MAIN
+ADDED from /home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/Examples/hello_triangle/Android/hello-triangle-ndk/app/src/main/AndroidManifest.xml:19:17-68
+	android:name
+		ADDED from /home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/Examples/hello_triangle/Android/hello-triangle-ndk/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/Examples/hello_triangle/Android/hello-triangle-ndk/app/src/main/AndroidManifest.xml:20:17-76
+	android:name
+		ADDED from /home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/Examples/hello_triangle/Android/hello-triangle-ndk/app/src/main/AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from /home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/Examples/hello_triangle/Android/hello-triangle-ndk/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/Examples/hello_triangle/Android/hello-triangle-ndk/app/src/main/AndroidManifest.xml
+INJECTED from /home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/Examples/hello_triangle/Android/hello-triangle-ndk/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/Examples/hello_triangle/Android/hello-triangle-ndk/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/Examples/hello_triangle/Android/hello-triangle-ndk/app/src/main/AndroidManifest.xml

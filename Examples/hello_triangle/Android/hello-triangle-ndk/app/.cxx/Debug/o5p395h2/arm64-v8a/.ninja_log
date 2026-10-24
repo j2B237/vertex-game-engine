@@ -1,0 +1,16 @@
+# ninja log v5
+0	58	1792881525870072908	build.ninja	e91083abc6f2cc8a
+1	224	1792881463124300570	CMakeFiles/native-lib.dir/native-lib.c.o	85df69d23ef5a97b
+385	420	1792881463316296805	libapp-glue.a	fbbecb5e4c172ce
+1	384	1792881463282297472	CMakeFiles/app-glue.dir/home/bullydd/Android/Sdk/ndk/25.1.8937393/sources/android/native_app_glue/android_native_app_glue.c.o	18658b4f38628f35
+0	3	0	clean	60d33e34ecc378ff
+1	360	1792881526825054262	CMakeFiles/native-lib.dir/native-lib.c.o	85df69d23ef5a97b
+2	391	1792881526846053851	CMakeFiles/app-glue.dir/home/bullydd/Android/Sdk/ndk/25.1.8937393/sources/android/native_app_glue/android_native_app_glue.c.o	18658b4f38628f35
+4	43	1792881721300277480	libapp-glue.a	fbbecb5e4c172ce
+9	374	1792881721640270909	CMakeFiles/VGEUtils_android.dir/home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/RenderSystems/GLES2/src/VGEUtils.c.o	f04739805573f53b
+1	159	1792881757455579182	CMakeFiles/VGEUtils_android.dir/home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/RenderSystems/GLES2/src/Android/VGEUtils_android.c.o	2e3e74bf3976b395
+159	178	1792881757483578642	libVGEUtils_android.a	26d094f830ba4ee8
+178	317	1792881757610576191	/home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/Examples/hello_triangle/Android/hello-triangle-ndk/app/build/intermediates/cxx/Debug/o5p395h2/obj/arm64-v8a/libnative-lib.so	aab14273470a3a89
+2	114	1792881795064853877	CMakeFiles/VGEUtils_android.dir/home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/RenderSystems/GLES2/src/Android/VGEUtils_android.c.o	2e3e74bf3976b395
+114	148	1792881795096853261	libVGEUtils_android.a	26d094f830ba4ee8
+149	203	1792881795156852104	/home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/Examples/hello_triangle/Android/hello-triangle-ndk/app/build/intermediates/cxx/Debug/o5p395h2/obj/arm64-v8a/libnative-lib.so	aab14273470a3a89

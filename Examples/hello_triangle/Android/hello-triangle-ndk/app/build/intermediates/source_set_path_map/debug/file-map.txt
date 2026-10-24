@@ -1,0 +1,7 @@
+vertexacademy.com.masteringndk.app-pngs-0 /home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/Examples/hello_triangle/Android/hello-triangle-ndk/app/build/generated/res/pngs/debug
+vertexacademy.com.masteringndk.app-resValues-1 /home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/Examples/hello_triangle/Android/hello-triangle-ndk/app/build/generated/res/resValues/debug
+vertexacademy.com.masteringndk.app-packageDebugResources-2 /home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/Examples/hello_triangle/Android/hello-triangle-ndk/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+vertexacademy.com.masteringndk.app-packageDebugResources-3 /home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/Examples/hello_triangle/Android/hello-triangle-ndk/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+vertexacademy.com.masteringndk.app-merged_res-4 /home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/Examples/hello_triangle/Android/hello-triangle-ndk/app/build/intermediates/merged_res/debug
+vertexacademy.com.masteringndk.app-debug-5 /home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/Examples/hello_triangle/Android/hello-triangle-ndk/app/src/debug/res
+vertexacademy.com.masteringndk.app-main-6 /home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/Examples/hello_triangle/Android/hello-triangle-ndk/app/src/main/res

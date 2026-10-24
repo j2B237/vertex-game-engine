@@ -1,0 +1,5 @@
+/home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/Examples/hello_triangle/Android/hello-triangle-ndk/app/.cxx/Debug/o5p395h2/armeabi-v7a/CMakeFiles/native-lib.dir
+/home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/Examples/hello_triangle/Android/hello-triangle-ndk/app/.cxx/Debug/o5p395h2/armeabi-v7a/CMakeFiles/app-glue.dir
+/home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/Examples/hello_triangle/Android/hello-triangle-ndk/app/.cxx/Debug/o5p395h2/armeabi-v7a/CMakeFiles/VGEUtils_android.dir
+/home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/Examples/hello_triangle/Android/hello-triangle-ndk/app/.cxx/Debug/o5p395h2/armeabi-v7a/CMakeFiles/edit_cache.dir
+/home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/Examples/hello_triangle/Android/hello-triangle-ndk/app/.cxx/Debug/o5p395h2/armeabi-v7a/CMakeFiles/rebuild_cache.dir
