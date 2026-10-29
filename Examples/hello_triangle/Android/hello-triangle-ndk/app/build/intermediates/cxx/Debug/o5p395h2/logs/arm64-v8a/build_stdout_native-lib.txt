@@ -1,8 +1,9 @@
 ninja: Entering directory `/home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/Examples/hello_triangle/Android/hello-triangle-ndk/app/.cxx/Debug/o5p395h2/arm64-v8a'
-[1/3] Building C object CMakeFiles/VGEUtils_android.dir/home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/RenderSystems/GLES2/src/Android/VGEUtils_android.c.o
-/home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/RenderSystems/GLES2/src/Android/VGEUtils_android.c:59:17: warning: implicit declaration of function 'esMain' is invalid in C99 [-Wimplicit-function-declaration]
-            if (esMain ( vgeContext ) != EGL_TRUE )
-                ^
+[1/4] Building C object CMakeFiles/native-lib.dir/native-lib.c.o
+[2/4] Building C object CMakeFiles/VGEUtils_android.dir/home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/RenderSystems/GLES2/src/VGEUtils.c.o
+/home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/RenderSystems/GLES2/src/VGEUtils.c:45:9: warning: unterminated '#pragma pack (push, ...)' at end of file [-Wpragma-pack]
+#pragma pack(push, x1)                  // Byte alignment (8-bit)
+        ^
 1 warning generated.
-[2/3] Linking C static library libVGEUtils_android.a
-[3/3] Linking C shared library /home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/Examples/hello_triangle/Android/hello-triangle-ndk/app/build/intermediates/cxx/Debug/o5p395h2/obj/arm64-v8a/libnative-lib.so
+[3/4] Linking C static library libVGEUtils_android.a
+[4/4] Linking C shared library /home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/Examples/hello_triangle/Android/hello-triangle-ndk/app/build/intermediates/cxx/Debug/o5p395h2/obj/arm64-v8a/libnative-lib.so

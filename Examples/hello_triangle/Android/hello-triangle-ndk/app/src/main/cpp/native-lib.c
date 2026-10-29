@@ -16,6 +16,8 @@ typedef struct {
 } User_Data;
 
 
+GLfloat xOffset = 0.0f;
+GLfloat inc = 0.01;
 
 /*
     Create a shader object, load the shader from source and
@@ -71,9 +73,10 @@ int Init( VGEContext *vgeContext )
     char vShader[] = 
     "#version 300 es                        \n"
     "layout( location = 0) in vec4 vPosition;\n"
+    "uniform float xOffset;                  \n"
     "void main( void)                        \n"
     "{                                      \n"
-    "\tgl_Position = vPosition;             \n"
+    "\tgl_Position = vec4(vPosition.x + xOffset, vPosition.y, vPosition.z, 1.0);             \n"
     "}                                      \n";
 
     char fShader[] = 
@@ -127,7 +130,7 @@ int Init( VGEContext *vgeContext )
 
         return GL_FALSE;
     }
-
+    
     // store the program object
     userData->programObject = programObject;
 
@@ -158,7 +161,25 @@ void Draw ( VGEContext *vgeContext )
 
     // Use the program object
     glUseProgram ( userData->programObject);
+    
+    // Get a address of uniform variable named xOffset
+    GLint offsetLoc = glGetUniformLocation (userData->programObject, "xOffset");
+    if (offsetLoc < 0){
+        vgeLogMessage ("Uniform xOffset is not active.");
+    }
 
+    if (xOffset > 1.0)
+        inc -= 0.01f;
+    if (xOffset < -1.0)
+        inc += 0.01f;
+    
+    xOffset += inc;
+
+    // Send read-only constante to uniform using OpenGL ES 3.0 application. This value is
+    // passed in via shader object attached to the executable program object stored 
+    // as a component in User_Data struct data type.
+    glUniform1f (offsetLoc, xOffset);
+    
     // Load the vertex data
     glVertexAttribPointer ( 0, 3, GL_FLOAT, GL_FALSE, 0, vertices );
     glEnableVertexAttribArray ( 0 );

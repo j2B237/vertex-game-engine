@@ -14,3 +14,7 @@
 2	114	1792881795064853877	CMakeFiles/VGEUtils_android.dir/home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/RenderSystems/GLES2/src/Android/VGEUtils_android.c.o	2e3e74bf3976b395
 114	148	1792881795096853261	libVGEUtils_android.a	26d094f830ba4ee8
 149	203	1792881795156852104	/home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/Examples/hello_triangle/Android/hello-triangle-ndk/app/build/intermediates/cxx/Debug/o5p395h2/obj/arm64-v8a/libnative-lib.so	aab14273470a3a89
+13	3821	1793286003905154183	CMakeFiles/native-lib.dir/native-lib.c.o	85df69d23ef5a97b
+14	3821	1793286003905154183	CMakeFiles/VGEUtils_android.dir/home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/RenderSystems/GLES2/src/VGEUtils.c.o	f04739805573f53b
+3822	4442	1793286004563153487	libVGEUtils_android.a	26d094f830ba4ee8
+4442	6573	1793286006723151273	/home/bullydd/Documents/Graphic_Programming/C/vertex-game-engine/Examples/hello_triangle/Android/hello-triangle-ndk/app/build/intermediates/cxx/Debug/o5p395h2/obj/arm64-v8a/libnative-lib.so	aab14273470a3a89
