@@ -15,8 +15,6 @@ typedef struct {
     GLuint programObject;
 } User_Data;
 
-
-
 /*
     Create a shader object, load the shader from source and
     compile the shader
